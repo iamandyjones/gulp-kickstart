@@ -1,0 +1,18 @@
+{
+  "name": "gulp-kickstart",
+  "version": "1.0.0",
+  "description": "Barebones Gulp-based framework",
+  "main": "",
+  "author": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4"
+  }
+}
